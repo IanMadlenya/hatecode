@@ -1,5 +1,9 @@
 C++ language features, and coding
 
+### General
+* inline
+* static
+
 ### Object Creation & Destruction
 
 ### OO Design
