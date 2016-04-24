@@ -21,7 +21,7 @@ There are some useful tactics you need to be familiar with, they are very common
 * Operate pointers in an array
 * Operate pointers in a list - it is always useful to maintain `pre, cur, next` pointers when you solve certain problems
 * Operate index in an array - rotate: (start + 1) % 5; (start + 4) % 5;  binary search
-* recursive (how to recursive, when recursion ends?)
+* recursive (how to recursive, when recursion ends?) - it could solve a lot of tree/binary related problem, although at the very first, it is not that clear.
 * iterative(loop)
 * stack (isvalid('()[]{}')
 * queue (BFS, traverse a tree by level)
