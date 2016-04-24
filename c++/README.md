@@ -1,10 +1,12 @@
 C++ language features, and coding
 
-### OO
+### OO Design
+
+### Object Creation & Destruction
 
 ### Resouce Management
 
-### Template
+### Generic Programming
 
 ### Exception
 
