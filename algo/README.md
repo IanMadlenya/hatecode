@@ -1,6 +1,6 @@
 algorithm, usually gives you a problem, and you need to find out a solution, and code it up, it is not bounded to any programming language.
 
-### Coding tips
+### Interview tips
 You should mimic the real interview scenario as much as possible:
 * The same person, with well prepration, and real practice, your interview result could be improved by 5 times or more, so: get prepared, and before trying your favorite position, try something else first
 * Do it on paper, within a limited time, like 15 minutes, or 20 minutes - as a real interview is usually done on white board, or on a paper, rather than on computer, and it is time bounded.
@@ -22,6 +22,8 @@ There are some useful tactics you need to be familiar with, they are very common
 * Operate index in an array - rotate: (start + 1) % 5; (start + 4) % 5
 * recursive (how to recursive, when recursion ends?)
 * iterative(loop)
+* stack (isvalid('()[]{}')
+* queue (BFS, traverse a tree by level)
 * list: reverse a single linked list
 * tree: LCT, traverse
 * graph: DFS, BFS(queue), adjcent list, adjcent matrix
@@ -32,3 +34,4 @@ There are some useful tactics you need to be familiar with, they are very common
 
 ### Example questions
 * Remove a char from a string (O(n))
+* Remove all duplicated chars from a string (O(n))
