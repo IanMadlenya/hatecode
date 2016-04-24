@@ -19,7 +19,7 @@ for(auto s: sets) {
 There are some useful tactics you need to be familiar with, they are very commonly used when you solve coding problems, they are patterns, they are building blocks
 * Operate pointers in an array
 * Operate pointers in a list - it is always useful to maintain `pre, cur, next` pointers when you solve certain problems
-* Operate index in an array - rotate: (start + 1) % 5; (start + 4) % 5
+* Operate index in an array - rotate: (start + 1) % 5; (start + 4) % 5;  binary search
 * recursive (how to recursive, when recursion ends?)
 * iterative(loop)
 * stack (isvalid('()[]{}')
