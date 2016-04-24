@@ -9,25 +9,28 @@ You should mimic the real interview scenario as much as possible:
 
 ### Common coding tatics 
 There are some useful tactics you need to be familiar with, they are very commonly used when you solve coding problems - they are patterns, they are building blocks
-* Operate pointers in an array -  it is always useful to maintain `pre, cur, next` pointers when you solve certain problems
-  * Remove a char from a string (O(n))
-  * Remove all duplicated chars from a string (O(n))
-  * Reverse a single linked list
-* Operate index in an array
-  * rotate index in an array: (start + 1) % 5; (start + 4) % 5; 
-  * binary search
 * recursion (how to recursive, when recursion ends?) - it could solve a lot of tree/binary related problem.
   * Fabnacci
   * binary search
 * iterative(loop)
   * binary search
+* bit operation (bitset, vector<bool>, unordered_map
+  * Count number of 1 in a integer. `a & (a-1)`
+  * There is 1 interger appears once, while others all appear twice in an array, find out the sigular number. `a[0] ^ a[1] ^ a[2] ...`
+* array & string
+  * Operate pointers in an array -  it is always useful to maintain `pre, cur, next` pointers when you solve certain problems
+    * Remove a char from a string (O(n))
+    * Remove all duplicated chars from a string (O(n))
+  * Operate index in an array - it is always useful to maintain `start, end` index when you solve certain problems
+    * rotate index in an array: (start + 1) % 5; (start + 4) % 5; 
+    * binary search
+* list
+  * reverse a single linked list - use `pre, cur, next`
 * stack
   *  `isvalid('()[]{}')`
 * queue
   * BFS
   * traverse a tree by level
-* list
-  * reverse a single linked list
 * tree
   * LCA
   * traverse
