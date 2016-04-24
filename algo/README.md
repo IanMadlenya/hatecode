@@ -33,7 +33,8 @@ There are some useful tactics you need to be familiar with, they are very common
   * traverse a tree by level
 * tree
   * LCA
-  * traverse
+  * traverse (pre-order, in-order, post-order)
+    * `isValidBST(root)`
 * graph: adjcent list, adjcent matrix
   * DFS
   * BFS(queue)
