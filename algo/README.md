@@ -47,12 +47,6 @@ There are some useful tactics you need to be familiar with, they are very common
 * Write your code with large interval - so you could insert code late when you see bugs
 * Put `{` at the end of the previous line, rather than on a new line - you don't have enough space, like:
 
- ```
- for(auto& s: sets) {
-     s.erase(val)
- }
- ```
-
 ### Reference
 * [LeetCode](https://leetcode.com)
 * [LeetCode - Clean Code Handbook](https://leetcode.com/book/)
