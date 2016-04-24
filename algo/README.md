@@ -9,7 +9,7 @@ You should mimic the real interview scenario as much as possible:
 
 ### Common coding tatics 
 There are some useful tactics you need to be familiar with, they are very commonly used when you solve coding problems - they are patterns, they are building blocks
-* Operate pointers in an array
+* Operate pointers in an array -  maintain `pre, cur` pointers
   * Remove a char from a string (O(n))
   * Remove all duplicated chars from a string (O(n))
 * Operate pointers in a list - it is always useful to maintain `pre, cur, next` pointers when you solve certain problems
