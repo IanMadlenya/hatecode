@@ -9,15 +9,14 @@ You should mimic the real interview scenario as much as possible:
 
 ### Common coding tatics 
 There are some useful tactics you need to be familiar with, they are very commonly used when you solve coding problems - they are patterns, they are building blocks
-* Operate pointers in an array -  maintain `pre, cur` pointers
+* Operate pointers in an array -  it is always useful to maintain `pre, cur, next` pointers when you solve certain problems
   * Remove a char from a string (O(n))
   * Remove all duplicated chars from a string (O(n))
-* Operate pointers in a list - it is always useful to maintain `pre, cur, next` pointers when you solve certain problems
   * Reverse a single linked list
-* Operate index in an array -  
+* Operate index in an array
   * rotate index in an array: (start + 1) % 5; (start + 4) % 5; 
   * binary search
-* recursive (how to recursive, when recursion ends?) - it could solve a lot of tree/binary related problem.
+* recursion (how to recursive, when recursion ends?) - it could solve a lot of tree/binary related problem.
   * Fabnacci
   * binary search
 * iterative(loop)
