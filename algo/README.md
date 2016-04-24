@@ -28,16 +28,16 @@ There are some useful tactics you need to be familiar with, they are very common
 * Greedy
 
 ### Interview tips
-* Finish the main workflow first, and then check the edge case to correct.
-* Think through your solution, or dicuss it before rush to coding
+* Think through your solution, ask confirm questions, and dicuss it before rushing to code
 * Draw some diagram to help you better analyze the solution, which could also be used to explain your idea to interviewer.
+* Finish the main workflow first, and then check the edge case.
 * Write your code with large interval - so you could insert code late when you see bugs
 * Put `{` at the end of the previous line, rather than on a new line - you don't have enough space, like:
-```
-for(auto& s: sets) {
-    s.erase(val)
-}
-```
+ ```
+ for(auto& s: sets) {
+     s.erase(val)
+ }
+ ```
 
 ### Reference
 * [LeetCode](https://leetcode.com)
