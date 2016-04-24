@@ -2,7 +2,7 @@ Algorithm questions, usually given a real problem, and you need to figure out an
 
 ### How to prepare
 You should mimic the real interview scenario as much as possible:
-* Do practice e on paper - interview are usually done on paper or whiteboard, not computer.
+* Do practice on paper - interview are usually done on paper or whiteboard, not computer.
 * Do it within a limited time, like 15 minutes, or 20 minutes - as a real interview is usually time bounded, and you maybe nervous..
 * Get your hands on with following coding tactics
 * Try real interviews for your non-favorite position first - the experience would be very valuable.
