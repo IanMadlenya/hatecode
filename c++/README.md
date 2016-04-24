@@ -13,4 +13,5 @@ C++ language features, and coding
 * Write a CountDownLauch usinig mutex & contion variable
 * Write a blocking queue
 * Write a smart pointer
+* Write a program to compute sum of (1..N) in compile time
 
