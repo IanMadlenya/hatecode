@@ -4,7 +4,7 @@ Algorithm questions, usually given a real problem, and you need to figure out an
 You should mimic the real interview scenario as much as possible:
 * Do practice on paper - interview are usually done on paper or whiteboard, not computer.
 * Do it within a limited time, like 15 minutes, or 20 minutes - as a real interview is usually time bounded, and you maybe nervous..
-* Get your hands on with following coding tactics
+* Get your hands on with all following coding tactics
 * Try real interviews for your non-favorite position first - the experience would be very valuable.
 
 ### Common coding tatics 
@@ -13,14 +13,28 @@ There are some useful tactics you need to be familiar with, they are very common
   * Remove a char from a string (O(n))
   * Remove all duplicated chars from a string (O(n))
 * Operate pointers in a list - it is always useful to maintain `pre, cur, next` pointers when you solve certain problems
-* Operate index in an array - rotate: (start + 1) % 5; (start + 4) % 5;  binary search
-* recursive (how to recursive, when recursion ends?) - it could solve a lot of tree/binary related problem, although at the very first, it is not that clear.
+  * Reverse a single linked list
+* Operate index in an array -  
+  * rotate index in an array: (start + 1) % 5; (start + 4) % 5; 
+  * binary search
+* recursive (how to recursive, when recursion ends?) - it could solve a lot of tree/binary related problem.
+  * Fabnacci
+  * binary search
 * iterative(loop)
-* stack (isvalid('()[]{}')
-* queue (BFS, traverse a tree by level)
-* list: reverse a single linked list
-* tree: LCT, traverse
-* graph: DFS, BFS(queue), adjcent list, adjcent matrix
+  * binary search
+* stack
+  *  `isvalid('()[]{}')`
+* queue
+  * BFS
+  * traverse a tree by level
+* list
+  * reverse a single linked list
+* tree
+  * LCA
+  * traverse
+* graph: adjcent list, adjcent matrix
+  * DFS
+  * BFS(queue)
 
 ### Algorithm design
 * Divide and Conquer
