@@ -8,8 +8,10 @@ You should mimic the real interview scenario as much as possible:
 * Try real interviews for your non-favorite position first - the experience would be very valuable.
 
 ### Common coding tatics 
-There are some useful tactics you need to be familiar with, they are very commonly used when you solve coding problems, they are patterns, they are building blocks
+There are some useful tactics you need to be familiar with, they are very commonly used when you solve coding problems - they are patterns, they are building blocks
 * Operate pointers in an array
+  * Remove a char from a string (O(n))
+  * Remove all duplicated chars from a string (O(n))
 * Operate pointers in a list - it is always useful to maintain `pre, cur, next` pointers when you solve certain problems
 * Operate index in an array - rotate: (start + 1) % 5; (start + 4) % 5;  binary search
 * recursive (how to recursive, when recursion ends?) - it could solve a lot of tree/binary related problem, although at the very first, it is not that clear.
@@ -31,7 +33,6 @@ There are some useful tactics you need to be familiar with, they are very common
 * Draw some diagram to help you better analyze the solution, which could also be used to explain your idea to interviewer.
 * Write your code with large interval - so you could insert code late when you see bugs
 * Put `{` at the end of the previous line, rather than on a new line - you don't have enough space, like:
-
 ```
 for(auto& s: sets) {
     s.erase(val)
@@ -42,7 +43,3 @@ for(auto& s: sets) {
 * [LeetCode](https://leetcode.com)
 * [LeetCode - Clean Code Handbook](https://leetcode.com/book/)
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
-
-### Example questions
-* Remove a char from a string (O(n))
-* Remove all duplicated chars from a string (O(n))
