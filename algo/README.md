@@ -40,6 +40,7 @@ There are some useful tactics you need to be familiar with, they are very common
   * BFS(queue)
 
 ### Algorithm design
+* Convert the problem to an known algorithm: `leetcode gas station -> max sub array -> dynamic programming`
 * Divide and Conquer
 * Dynamic Programming
 * Greedy
