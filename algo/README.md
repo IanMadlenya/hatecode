@@ -14,7 +14,7 @@ There are some useful tactics you need to be familiar with, they are very common
   * binary search
 * iterative(loop)
   * binary search
-* bit operation (bitset, vector<bool>, unordered_map
+* bit operation (int, bitset, vector<bool>, unordered_map)
   * Count number of 1 in a integer. `a & (a-1)`
   * There is 1 interger appears once, while others all appear twice in an array, find out the sigular number. `a[0] ^ a[1] ^ a[2] ...`
 * array & string
