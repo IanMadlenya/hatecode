@@ -17,6 +17,12 @@ There are some useful tactics you need to be familiar with, they are very common
 * bit operation (int, bitset, vector<bool>, unordered_map)
   * Count number of 1 in a integer. `a & (a-1)`
   * There is 1 interger appears once, while others all appear twice in an array, find out the sigular number. `a[0] ^ a[1] ^ a[2] ...`
+* sort
+  * quick sort
+  * merge sort
+  * bubble sort
+  * selection sort
+  * insert sort
 * array & string
   * Operate pointers in an array -  it is always useful to maintain `pre, cur, next` pointers when you solve certain problems
     * Remove a char from a string (O(n))
@@ -24,8 +30,11 @@ There are some useful tactics you need to be familiar with, they are very common
   * Operate index in an array - it is always useful to maintain `start, end` index when you solve certain problems
     * rotate index in an array: (start + 1) % 5; (start + 4) % 5; 
     * binary search
+* heap (priority_queue)
+  * k-way merge
 * list
   * reverse a single linked list - use `pre, cur, next`
+  * `slow, fast` pointers - get to the middle, check circle
 * stack
   *  `isvalid('()[]{}')`
 * queue
