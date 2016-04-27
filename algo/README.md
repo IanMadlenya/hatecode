@@ -23,6 +23,9 @@ There are some useful tactics you need to be familiar with, they are very common
   * bubble sort
   * selection sort
   * insert sort
+* math
+  * atoi
+  * itoa
 * array & string
   * Operate pointers in an array -  it is always useful to maintain `pre, cur, next` pointers when you solve certain problems
     * Remove a char from a string (O(n))
