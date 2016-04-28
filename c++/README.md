@@ -24,8 +24,10 @@ C++ language features, and coding
 * Write a blocking queue
 * Write a smart pointer
 * Write a program to compute sum of (1..N) in compile time
-* 
+* Write a program to compute the Fibbonacci numbers
 
 ### References
 * [C++ Reference](http://www.cplusplus.com/reference)
-
+* [Effective C++: 55 Specific Ways to Improve Your Programs and Designs, Third Edition](http://techbus.safaribooksonline.com/0321334876/ibk01-toc?percentage=0&reader=html)
+* [A Tour of C++](http://techbus.safaribooksonline.com/book/programming/cplusplus/9780133549041)
+* [Effective Modern C++](http://techbus.safaribooksonline.com/book/programming/cplusplus/9781491908419)
