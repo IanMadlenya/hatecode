@@ -18,6 +18,10 @@ C++ language features, and coding
 
 ### STL & boost
 
+### Testing
+* What test framework you use?
+* What is mock object? have you ever used it?
+
 ### Coding
 * Write a thread-safe singleton
 * Write a CountDownLauch usinig mutex & contion variable
@@ -31,3 +35,4 @@ C++ language features, and coding
 * [A Tour of C++](http://techbus.safaribooksonline.com/book/programming/cplusplus/9780133549041)
 * [Effective C++: 55 Specific Ways to Improve Your Programs and Designs, Third Edition](http://techbus.safaribooksonline.com/0321334876/ibk01-toc?percentage=0&reader=html)
 * [Effective Modern C++](http://techbus.safaribooksonline.com/book/programming/cplusplus/9781491908419)
+* [C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond](http://techbus.safaribooksonline.com/book/programming/cplusplus/0321227255)
