@@ -28,6 +28,6 @@ C++ language features, and coding
 
 ### References
 * [C++ Reference](http://www.cplusplus.com/reference)
-* [Effective C++: 55 Specific Ways to Improve Your Programs and Designs, Third Edition](http://techbus.safaribooksonline.com/0321334876/ibk01-toc?percentage=0&reader=html)
 * [A Tour of C++](http://techbus.safaribooksonline.com/book/programming/cplusplus/9780133549041)
+* [Effective C++: 55 Specific Ways to Improve Your Programs and Designs, Third Edition](http://techbus.safaribooksonline.com/0321334876/ibk01-toc?percentage=0&reader=html)
 * [Effective Modern C++](http://techbus.safaribooksonline.com/book/programming/cplusplus/9781491908419)
