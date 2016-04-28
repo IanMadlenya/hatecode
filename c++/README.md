@@ -6,9 +6,9 @@ C++ language features, and coding
 
 ### Object Creation & Destruction
 
-### OO Design
+### Inheritance & Polymorphism
 
-### Generic Programming
+### Template
 
 ### Resouce Management
 
