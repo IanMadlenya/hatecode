@@ -68,3 +68,6 @@ There are some useful tactics you need to be familiar with, they are very common
 * [LeetCode](https://leetcode.com)
 * [LeetCode - Clean Code Handbook](https://leetcode.com/book/)
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+
+### Books
+* [Introduction to Algorithms](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
