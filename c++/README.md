@@ -34,9 +34,11 @@ C++ language features, and coding
 * [C++ Reference](http://www.cplusplus.com/reference)
 * [Cpp Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+* [Optimizing software in C++: An optimization guide for Windows, Linux and Mac platforms](http://www.agner.org/optimize/optimizing_cpp.pdf)
+
 ### Books
 * [A Tour of C++](http://techbus.safaribooksonline.com/book/programming/cplusplus/9780133549041)
 * [Effective C++: 55 Specific Ways to Improve Your Programs and Designs, Third Edition](http://techbus.safaribooksonline.com/0321334876/ibk01-toc?percentage=0&reader=html)
 * [Effective Modern C++](http://techbus.safaribooksonline.com/book/programming/cplusplus/9781491908419)
 * [C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond](http://techbus.safaribooksonline.com/book/programming/cplusplus/0321227255)
-* [Optimizing software in C++: An optimization guide for Windows, Linux and Mac platforms](http://www.agner.org/optimize/optimizing_cpp.pdf)
+
