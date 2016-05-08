@@ -10,3 +10,4 @@ Below are selected tips & questions for each different techinical area:
 * [python](python/README.md)
 * [java](java/README.md)
 * [cto](cto/README.md)
+* [finance](finance/README.md)
