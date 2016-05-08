@@ -8,3 +8,6 @@ Here are the topics I think might be important:
 * Build process (SDLC, CI, CD...)
 * Networking - relationship is key to make things happen
 
+
+### Books
+* 《影响力》
