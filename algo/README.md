@@ -30,9 +30,10 @@ There are some useful tactics you need to be familiar with, they are very common
   * Operate pointers in an array -  it is always useful to maintain `pre, cur, next` pointers when you solve certain problems
     * Remove a char from a string (O(n))
     * Remove all duplicated chars from a string (O(n))
-  * Operate index in an array - it is always useful to maintain `start, end` index when you solve certain problems
+  * Operate index in an array - it is always useful to maintain `start, end, max` index when you solve certain problems
     * rotate index in an array: (start + 1) % 5; (start + 4) % 5; 
     * binary search
+    * max subsequence sum
 * heap (priority_queue)
   * k-way merge
 * list
