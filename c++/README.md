@@ -60,6 +60,7 @@ C++ language features, and coding
 * Could we use vector<auto_ptr<T>>
 * Smart pointers: shared_ptr, unique_ptr, weak_ptr
 * bind???
+* Write a vector of integer, then look for the first odd number in the vector? (direct indexing vs iterators; function objecvt vs pointer on function vs lambda - std::find)
 
 ### Multithreading
 * thread vs. process
