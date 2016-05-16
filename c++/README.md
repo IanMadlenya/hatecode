@@ -64,7 +64,6 @@ C++ language features, and coding
 * LD_PRELOAD
 * RPATH/RUNPATH
 * When do you use strace? (file, system call)
-* what are trait class? (use template specilization to dispatch in compile time(std::advance); iterator_traits; numeric_limits)
 
 ### Testing
 * What test framework you use?
