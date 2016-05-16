@@ -12,7 +12,7 @@ C++ language features, and coding
 * casting operators (static_cast, const_cast, dynamic_cast, reinterpret_cast) -> what will happen if dynamic_cast failed?
 * prefix operator vs postfix operator -> how to override?
 
-### Object Creation & Destruction
+### Object Construct & Destruct
 * malloc vs. new
 * initilization list -> order
 * virtual destructor
