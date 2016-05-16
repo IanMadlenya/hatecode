@@ -36,6 +36,10 @@ C++ language features, and coding
 ### Exception
 * What happens to the stack when an exception is thrown?
 * What types are throwable? (any type -> copy constructable -> not limited by exception specification)
+* What does 'exception safe' mean? (no-throw, no-change, no-leak), give an example(STL containers)
+* throw exception from a ctor?
+* throw exception from dtor?
+* why do you catch by ref? 
 
 ### STL & boost
 * What are the type requirements for an STL container? (default ctor; copy ctor; assignment; dtor)
