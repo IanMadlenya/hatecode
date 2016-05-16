@@ -55,6 +55,7 @@ C++ language features, and coding
 ### Multithreading
 * thread vs. process
 * mutex vs. semaphore
+* What is memory order?
 * how to debug a deadlock? (drop a stack trace: gstack; gdb:bt)
 * Write a thread-safe singleton
 * Write a CountDownLauch usinig mutex & contion variable
