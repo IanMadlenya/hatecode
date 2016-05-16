@@ -16,13 +16,18 @@ C++ language features, and coding
 * malloc vs. new
 * initilization list -> order
 * virtual destructor
+* Given a calss with 2 base classes, 2 member objects: constructor, destructor order
 
 ### Inheritance & Polymorphism
 * virtual -> vptr & vtable -> RTTI
 * polymorphism vs overloading -> overload by? (args, const & volatile (cv-qualifer), template fn return type)
+* pure virtual
+* virtual inheritance, when, why?
+* 
 
 ### Template
-* complete specialization vs. partial specialization
+* How to force template instantiation
+* Complete specialization vs. partial specialization
 * What is member template function -> does it need to be in a template class?
 * CRTP
 * SFINAE
@@ -35,9 +40,10 @@ C++ language features, and coding
 * RAII
 
 ### Exception
+* Explain exception(error handling, separted from core logic)
+* What does 'exception safe' mean? (no-throw, no-change, no-leak), give an example(STL containers)
 * What happens to the stack when an exception is thrown?
 * What types are throwable? (any type -> copy constructable -> not limited by exception specification)
-* What does 'exception safe' mean? (no-throw, no-change, no-leak), give an example(STL containers)
 * throw exception from a ctor?
 * throw exception from dtor?
 * why do you catch by ref? 
@@ -45,8 +51,11 @@ C++ language features, and coding
 ### STL & boost
 * What are the type requirements for an STL container? (default ctor; copy ctor; assignment; dtor)
 * vector vs. list
+* what is deque
 * map vs. unordered_map
 * name types of iterators
+* what is the default sort algo in the std?
+* What is the advantage of the design of iterators? (algorithm - iterator - container)
 * When is an iterator invalidated? (when memory it points to moves: resize, tree rebalance, rehash, remove...)
 * Could we use vector<auto_ptr<T>>
 * Smart pointers: shared_ptr, unique_ptr, weak_ptr
