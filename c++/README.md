@@ -32,6 +32,7 @@ C++ language features, and coding
 * Write a program to compute the Fibbonacci numbers
 
 ### Resouce Management
+* RAII
 
 ### Exception
 * What happens to the stack when an exception is thrown?
