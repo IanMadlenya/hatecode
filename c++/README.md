@@ -17,13 +17,13 @@ C++ language features, and coding
 * initilization list -> order
 * virtual destructor
 * Given a calss with 2 base classes, 2 member objects: constructor, destructor order
+* RAII
 
 ### Inheritance & Polymorphism
 * virtual -> vptr & vtable -> RTTI
 * polymorphism vs overloading -> overload by? (args, const & volatile (cv-qualifer), template fn return type)
 * pure virtual
 * virtual inheritance, when, why?
-* 
 
 ### Template
 * How to force template instantiation
@@ -35,9 +35,6 @@ C++ language features, and coding
 * Write a smart pointer
 * Write a program to compute sum of (1..N) in compile time
 * Write a program to compute the Fibbonacci numbers
-
-### Resouce Management
-* RAII
 
 ### Exception
 * Explain exception(error handling, separted from core logic)
