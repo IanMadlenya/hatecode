@@ -1,6 +1,6 @@
 C++ language features, and coding
 
-### General
+### Core Language
 * inline vs. macro
 * static
 * extern -> extern "C" -> name mangling
