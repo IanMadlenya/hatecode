@@ -73,6 +73,8 @@ C++ language features, and coding
 * LD_PRELOAD
 * RPATH/RUNPATH
 * When do you use strace? (file, system call)
+* PCH
+* binutils: c++filt, nm, readelf...
 
 ### Testing
 * What test framework you use?
