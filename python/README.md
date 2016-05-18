@@ -18,3 +18,4 @@ Python language features
 ### Reference
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [PEP8](https://www.python.org/dev/peps/pep-0008/)
+* [Python interview questions](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions/)
