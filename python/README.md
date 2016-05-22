@@ -1,11 +1,12 @@
 Python language features
 
-### Language features
+### Core Language
 * What is decorator? write a decorator for time logging (decorator)
 * what is with statement?
 * What is context manager?(__enter_, __init__, __exit__) write a context manager for altering environ (context manager)
 * what is yield (generator) - implement enumerate(sequence, start=0)
 * What is GIL?
+* What is *args, **kwargs
 
 ### Data structure
 * Translate a list of intergers into a new list where each element is the double of original one (list comprehension, map)
@@ -18,9 +19,23 @@ Python language features
 ### Standard Libraries
 * argparse
 * logging
-* pdb
+* subprocess
+* json
+* xml.etree.ElementTree
+* urlparse
+* SocketServer
 * requests
 * urllib2
+* datetime
+* collections
+* tempfile
+* glob
+* shutil
+* thread - threading - multiprocessing
+
+### Debuging
+* pdb
+* timeit
 
 ### Testing
 * unittest
@@ -29,7 +44,8 @@ Python language features
 * testtools
 
 ### Reference
+* [The Python Tutorial](https://docs.python.org/2/tutorial/index.html)
+* [The Python Standard Library](https://docs.python.org/2/library/index.html)
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [PEP8](https://www.python.org/dev/peps/pep-0008/)
 * [Python interview questions](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions/)
-* [The Python Standard Library](https://docs.python.org/2/library/index.html)
