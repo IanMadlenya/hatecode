@@ -38,6 +38,7 @@ Python language features
 ### Debuging
 * pdb
 * timeit
+* time
 
 ### Testing
 * unittest
