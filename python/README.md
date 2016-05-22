@@ -21,6 +21,7 @@ Python language features
 * argparse
 * logging
 * subprocess
+* copy
 * json
 * xml.etree.ElementTree
 * urlparse
