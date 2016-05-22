@@ -7,6 +7,7 @@ Python language features
 * what is yield (generator) - implement enumerate(sequence, start=0)
 * What is GIL?
 * What is *args, **kwargs
+* Show me 3 different ways to assign a value to y: if x evaluate to true, y = x,  or else y = 10 (or, one line if..else, normal if..else)
 
 ### Data structure
 * Translate a list of intergers into a new list where each element is the double of original one (list comprehension, map)
