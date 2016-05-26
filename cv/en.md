@@ -23,3 +23,10 @@ Build 3D CAD software and CAD data format exchange platform.
 ---
 #### Train, 2011.7 – present
 Train is an enterprise-level CI/CD system that enable deploying user’s project from source code all the way through to the target environment by one click.  It integrate existing commercial and open source systems, including Perforce, Git, Jira, Crucible, premake, ant, gradle, Jenkins, and Team City. Provides the internal development community with a consistent process for developing and deploying software, while also making it easy to adopt best practices. **I am a lead developer of Train responsible for many of the components, highly involved in user discussion, cross-team collaboration, and design reviews to ensure the system is evolving on the right** direction.
+
+#### MSPremake, 2012.5 – present
+This is a fork of the open source C++ meta build system premake, based on lua, to provide better C++ build story for Morgan Stanley with: dependency management and conflict resolution, performance improvement using luajit, optimal makefile generation, distributed build support etc. **I am the owner and lead developer of the project, involve in all aspects of the project: user discussion, design, coding, testing, documentation, deploy, training, support etc.**
+
+#### MSGradle , 2013.10 – present
+This is an extension of the open source java/scala build system gradle, based on groovy, to provide better java/scala build story for Morgan Stanley with a lot of plugins: run script generation, dependency resolvers, dependency copy etc. **I am the owner and lead developer of the project, involve in all aspects of the project: user discussion, design, coding, testing, documentation, deploy, training, support etc.**
+
