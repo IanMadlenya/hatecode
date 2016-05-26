@@ -12,6 +12,7 @@
 * Fluent English
 
 ### Experience
+---
 #### Vice President, Morgan Stanley, 2011.7 – present
 As a leader developer to build an enterprise-level CI/CD system, I am also the manager of build systems for all different programming languages.
 
@@ -19,3 +20,4 @@ As a leader developer to build an enterprise-level CI/CD system, I am also the m
 Build 3D CAD software and CAD data format exchange platform.
 
 ### Projects
+---
