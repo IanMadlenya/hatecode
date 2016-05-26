@@ -16,3 +16,6 @@ Below are selected tips & questions for each different techinical area:
 * [cv-cn](cv/cn.md)
 * [cto](cto/README.md)
 * [finance](finance/README.md)
+* 
+
+And this is all about Markdown, here is the [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
