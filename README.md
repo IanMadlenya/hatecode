@@ -4,10 +4,15 @@ Here hatecode just resembles leetcode:)
 
 
 Below are selected tips & questions for each different techinical area:
+### Tech
 * [algo](algo/README.md)
 * [c++](c++/README.md)
 * [python](python/README.md)
 * [java](java/README.md)
-* [cto](cto/README.md)
 * [design](design/README.md)
+* 
+### NonTech
+* [cv-en](cv/en.md)
+* [cv-cn](cv/cn.md)
+* [cto](cto/README.md)
 * [finance](finance/README.md)
