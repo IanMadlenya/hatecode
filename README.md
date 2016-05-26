@@ -10,7 +10,7 @@ Below are selected tips & questions for each different techinical area:
 * [python](python/README.md)
 * [java](java/README.md)
 * [design](design/README.md)
-* 
+
 ### NonTech
 * [cv-en](cv/en.md)
 * [cv-cn](cv/cn.md)
