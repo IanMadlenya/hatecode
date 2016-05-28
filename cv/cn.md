@@ -39,7 +39,7 @@ This was a new initiative to renovate the way how different CAD data format are 
 Inventor OEM was a new product that allows CAD developers to rebrand Autodesk Inventor and create domain specific workflows from Inventor functionalities. The project aims at de-coupling Inventor components from each other so that various combinations of them can form self-contained systems; a side goal was to improve its startup time. **I was the scrum master, and then lead of the team, overseeing the team operation, the quality of the team’s work and cross-team collaborations. **
 
 #### Inventor Refactoring, 2008.8 – 2010.2 
-The refactoring separated Inventor into two layers: the data model and the UI, and wraps the data model up as a standalone component, to provide other products ability to inter-operate with Inventor. **I was the scrum master as well as core developer, I wrote many tools to automate the refactoring, setup up the testing framework for the new data model part, during when I also drove the effort to standardize header file including rule(followed by 200+ developers), optimize build time(by %5)**
+这次一个涉及千万行代码的重构，我们将Inventor分成两个层次：数据模型层和UI层，该数据模型层作为一个单独的组件，可以被Autodesk其他CAD产品通过进程内或者进程外的方式使用。 ***我是这个team的scrum master，以及核心开发人员，开发了很多工具用来自动化代码重构，并为数据模型层封装了进程外调用的接口，以及设置了测试框架；并在此过程设立了C++头文件引入标准（为200+开发人员所准守），优化了build time（%5**
 
 #### Inventor AddIn Framework For Manufacturing, 2008.1 – 2008.7
 这是Inventor模具设计系列系统的一个framework， 提供框架以及常用utility，被3个以上模具设计系统使用。**我是这个项目8人小组的tech leader，设计并实现了第一版本的框架**
