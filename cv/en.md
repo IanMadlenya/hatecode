@@ -30,6 +30,8 @@ This is a fork of the open source C++ meta build system premake, based on lua, t
 #### MSGradle , 2013.10 – present
 This is an extension of the open source java/scala build system gradle, based on groovy, to provide better java/scala build story for Morgan Stanley with a lot of plugins: run script generation, dependency resolvers, dependency copy etc. **I am the owner and lead developer of the project, involve in all aspects of the project: user discussion, design, coding, testing, documentation, deploy, training, support etc.**
 
+---
+
 #### Autodesk Translator Platform, 2010.12 – 2011.7
 This was a new initiative to renovate the way how different CAD data format are exchanged, the purpose is to provide a central service to exchange between any data format, which could then be used by all Autodesk CAD products. **I was one of the initiator, as well as tech leader of the SH local team of 10+, working with senior architects on defining scope and overall design**, I also participated in almost every aspects of the design: overall architecture, interface hierarchy, parallel processing, memory management, option design, and error report
 
