@@ -8,6 +8,7 @@ Below are selected tips & questions for each different techinical area:
 * [algo](algo/README.md)
 * [c++](c++/README.md)
 * [python](python/README.md)
+* [lua](lua/README.md)
 * [java](java/README.md)
 * [design](design/README.md)
 
