@@ -51,4 +51,4 @@ Inventor AIP was a product that provides Cable & Harness design for end users, a
 This is an integrated measure tool in Inventor to measure geometric metrics like: minimum distance, length, area, volume, angle etc. **I was the tech leader of 3, design, implement and oversee the quality of the deliverable.**
 
 #### Inventor Surface Analysis, 2005.3 – 2005.11
-As a new developer, I developed 2 features for Inventor’s surface analysis functionality: curvature analysis and 3d intersection.
+作为第一个项目，我为Inventor曲面分析开发了两个功能：曲率分析和三维曲面交叉线生成
