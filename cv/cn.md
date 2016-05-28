@@ -45,7 +45,7 @@ The refactoring separated Inventor into two layers: the data model and the UI, a
 This was an addin framework served as the foundation of several Inventor plugin for mould and die design. **I was the tech leader of this 8-member core team, designed and implemented the initial logical and physical architecture.**
 
 #### Inventor AIP, 2006.3 – 2007.12
-Inventor AIP was a product that provides Cable & Harness design for end users, as a core developer I added a new cable type, optimized the cable routing algorithm, and also improved the performance of the entire system by ~30%.
+Inventor AIP提供三维布线设计，作为核心开发人员，我参与设计开发了一种新的布线类型；优化了布线路由算法；并整体上提高了30%性能
 
 #### Inventor Measure Tools, 2005.12 – 2006.5
 这是Inventor的一个plugin，为Inventor提供各种几何测量功能：最短距离，长度，面积，提及，角度等等。**我是这个项目3人小组的tech leader，负责设计，编码，并为最终产品质量负责**
