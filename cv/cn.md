@@ -48,7 +48,7 @@ This was an addin framework served as the foundation of several Inventor plugin 
 Inventor AIP was a product that provides Cable & Harness design for end users, as a core developer I added a new cable type, optimized the cable routing algorithm, and also improved the performance of the entire system by ~30%.
 
 #### Inventor Measure Tools, 2005.12 – 2006.5
-This is an integrated measure tool in Inventor to measure geometric metrics like: minimum distance, length, area, volume, angle etc. **I was the tech leader of 3, design, implement and oversee the quality of the deliverable.**
+这是Inventor的一个plugin，为Inventor提供各种几何测量功能：最短距离，长度，面积，提及，角度等等。**我是这个项目3人小组的tech leader，负责设计，编码，并为最终产品质量负责**
 
 #### Inventor Surface Analysis, 2005.3 – 2005.11
-作为第一个项目，我为Inventor曲面分析开发了两个功能：曲率分析和三维曲面交叉线生成
+作为毕业后第一个项目，我为Inventor曲面分析开发了两个功能：曲率分析和三维曲面交叉线生成器。
