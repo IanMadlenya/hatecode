@@ -1,5 +1,5 @@
 # 黄柏炎
-* 邮箱：baiyanhuang@126.com
+* 邮箱：baiyanhuang at 126.com
 * 地址：上海
 * 学历：江南大学，计算机科学与技术，本科，2005
 
