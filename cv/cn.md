@@ -22,7 +22,7 @@
 ### 项目经验
 ---
 #### Train, 2011.7 – present
-Train is an enterprise-level CI/CD system that enable deploying user’s project from source code all the way through to the target environment by one click.  It integrate existing commercial and open source systems, including Perforce, Git, Jira, Crucible, premake, ant, gradle, Jenkins, and Team City. Provides the internal development community with a consistent process for developing and deploying software, while also making it easy to adopt best practices. **I am a lead developer of Train responsible for many of the components, highly involved in user discussion, cross-team collaboration, and design reviews to ensure the system is evolving on the right** direction.
+Train是一个企业级CI/CD系统，其主要目的为帮助用户将其项目自动化部署到测试或者生产环境；Train集成了各种商业或者开源软件，并将其组织成一套完成的自动化部署流程，包括P4, Git, Jira, Crucible, premake, gradle, jenkins, teamcity等等，为公司内部所有的开发团队提供一个统一的开发，部署系统，并推荐最佳实践。 **我作为lead developer负责开发了多个组件，并负责用户讨论，跨团队合作，以及设计评审来保证系统向正确的方向发展**
 
 #### MSPremake, 2012.5 – present
 This is a fork of the open source C++ meta build system premake, based on lua, to provide better C++ build story for Morgan Stanley with: dependency management and conflict resolution, performance improvement using luajit, optimal makefile generation, distributed build support etc. **I am the owner and lead developer of the project, involve in all aspects of the project: user discussion, design, coding, testing, documentation, deploy, training, support etc.**
