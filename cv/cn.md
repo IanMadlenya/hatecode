@@ -33,7 +33,7 @@ MSGradle基于开发java/scala编译工具gradle开发，使用groovy，旨在�
 ---
 
 ### Autodesk Translator Platform, 2010.12 – 2011.7
-This was a new initiative to renovate the way how different CAD data format are exchanged, the purpose is to provide a central service to exchange between any data format, which could then be used by all Autodesk CAD products. **I was one of the initiator, as well as tech leader of the SH local team of 10+, working with senior architects on defining scope and overall design**, I also participated in almost every aspects of the design: overall architecture, interface hierarchy, parallel processing, memory management, option design, and error report
+ATP是一个革新不同CAD数据格式间互转方式的产品，其目标是提供一个统一的平台在任意数据格式间互转，被所有Autodesk的CAD产品中使用。**我是这个项目的发起者之一， 并且是上海10人小组的tech leader，与美国团队异同定义需求，和总体设计**，并参与几乎所有组件的设计：接口层次，并行处理，内存管理，option设计以及错误报告等
 
 ### Inventor OEM, 2010.3 – 2010.11
 Inventor OEM是一个基于Inventor的新产品，可以让CAD开发商基于Inventor已有的功能，挑选需要的模块，组织新的流程从而打造一个新的三维设计软件。这个项目的目的是解耦Inventor的各个组件，让它们相互独立，并且可以任意相互组合成新的系统。**我是这个项目的scrum master和tech leader，负责设计与开发，团队与项目管理，以及跨部门合作**
