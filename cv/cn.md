@@ -28,7 +28,7 @@ Train是一个大型企业级CI/CD系统，其主要目的为帮助用户将其�
 MSPremake基于开源C++元编译工具premake开发，使用C和lua，旨在为摩根士丹利大型C++项目提供更完善的编译体验，其核心功能为：依赖管理和版本冲突处理；并添加了其他功能：使用luajit提升运行速度；高性能的makefile生成器；cmake,eclipse生成器； 集成distcc并行编译等等。**作为项目的owner和主要开发者，我参与了项目的所有方面：用户讨论，功能设计，编码，测试，部署，文档，培训，用户支持等等**
 
 #### MSGradle , 2013.10 – present
-This is an extension of the open source java/scala build system gradle, based on groovy, to provide better java/scala build story for Morgan Stanley with a lot of plugins: run script generation, dependency resolvers, dependency copy etc. **I am the owner and lead developer of the project, involve in all aspects of the project: user discussion, design, coding, testing, documentation, deploy, training, support etc.**
+MSGradle基于开发java/scala编译工具gradle开发，使用groovy，旨在为摩根士丹利提供一个更强大、灵活的java编译工具 - 我们主要通过开发plugin的方式来提供功能，但也有时需要直接patch gradle； 提供的功能有：runscript生成器, dependency resolver, dependency cache etc; **作为项目的owner和主要开发者，我参与了项目的所有方面：用户讨论，功能设计，编码，测试，部署，文档，培训，用户支持等等**
 
 ---
 
