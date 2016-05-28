@@ -42,7 +42,7 @@ Inventor OEM was a new product that allows CAD developers to rebrand Autodesk In
 The refactoring separated Inventor into two layers: the data model and the UI, and wraps the data model up as a standalone component, to provide other products ability to inter-operate with Inventor. **I was the scrum master as well as core developer, I wrote many tools to automate the refactoring, setup up the testing framework for the new data model part, during when I also drove the effort to standardize header file including rule(followed by 200+ developers), optimize build time(by %5)**
 
 #### Inventor AddIn Framework For Manufacturing, 2008.1 – 2008.7
-This was an addin framework served as the foundation of several Inventor plugin for mould and die design. **I was the tech leader of this 8-member core team, designed and implemented the initial logical and physical architecture.**
+这是Inventor模具设计系列系统的一个framework， 提供框架以及常用utility，被3个以上模具设计系统使用。**我是这个项目8人小组的tech leader，设计并实现了第一版本的框架**
 
 #### Inventor AIP, 2006.3 – 2007.12
 Inventor AIP提供三维布线设计，作为核心开发人员，我参与设计开发了一种新的布线类型；优化了布线路由算法；并整体上提高了30%性能
