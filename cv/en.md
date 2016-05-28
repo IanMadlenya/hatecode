@@ -3,7 +3,7 @@
 * Residence:	Shanghai, China
 * Education: 	B.S. Computer Science, JiangNan University, 2005
 
-### Highlights
+## Highlights
 ---
 * 5 years of Python/Java/Lua building enterprise-level CI/CD system
 * 6 years of C++ development with large scale (10MLOC) CAD systems
@@ -11,7 +11,7 @@
 * Familiar with linux & windows development
 * Fluent English
 
-### Experience
+## Experience
 ---
 #### Vice President, Morgan Stanley, 2011.7 – present
 As a lead developer to build an enterprise-level CI/CD system, I am also the manager of build systems for all different programming languages.
