@@ -9,16 +9,17 @@
 * 6年C++经验开发大型三维设计软件（千万行代码)
 * 5年技术领导经验，3年人员管理经验
 * 熟悉Linux和Windows环境下开发
+* 英文流利
 
-### 经验
+### 工作经历
 ---
-#### Vice President, Morgan Stanley, 2011.7 – present
-As a leader developer to build an enterprise-level CI/CD system, I am also the manager of build systems for all different programming languages.
+#### Vice President, 摩根士丹利, 2011.7 – 至今
+作为lead developer开发一个企业级CI/CD系统，同时管理build systems团队
 
-#### Software Engineer, Autodesk, 2005.3 – 2011.7
-Build 3D CAD software and CAD data format exchange platform.
+#### Software Engineer, 欧特克软件, 2005.3 – 2011.7
+开发大型三维设计软件，以及CAD数据格式转换平台
 
-### Projects
+### 项目经验
 ---
 #### Train, 2011.7 – present
 Train is an enterprise-level CI/CD system that enable deploying user’s project from source code all the way through to the target environment by one click.  It integrate existing commercial and open source systems, including Perforce, Git, Jira, Crucible, premake, ant, gradle, Jenkins, and Team City. Provides the internal development community with a consistent process for developing and deploying software, while also making it easy to adopt best practices. **I am a lead developer of Train responsible for many of the components, highly involved in user discussion, cross-team collaboration, and design reviews to ensure the system is evolving on the right** direction.
