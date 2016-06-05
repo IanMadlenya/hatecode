@@ -4,6 +4,7 @@
 * How to check if a table is empty?
 * What is package.path/LUA_PATH?
 * What is lua JIT?
+* Why lua is considerred faster than python? (register-based VM, one phase intepretation)
 
 ### C Interoperbility
 * What is package.cpath/LUA_CPATH?
