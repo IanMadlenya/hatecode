@@ -6,9 +6,9 @@ Here hatecode just resembles leetcode:)
 Below are selected tips & questions for each different techinical area:
 ### Core Tech
 * [algo](algo/README.md)
+* [design](design/README.md)
 * [c++](c++/README.md)
 * [python](python/README.md)
-* [design](design/README.md)
 
 ### NonCore Tech
 * [java](java/README.md)
