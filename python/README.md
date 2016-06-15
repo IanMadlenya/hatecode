@@ -16,6 +16,7 @@ Python language features
 * list vs. tuple
 * range vs. xrange
 * Show me three different ways of fetching every third item in the list? (enumerate with list comprehension, enumerate with filter,a[2::3])
+* Get a value from a dict, if not exist , return a default value - dict.get(key, 'defualt value')
 
 ### Standard Libraries
 * argparse
@@ -34,6 +35,7 @@ Python language features
 * glob
 * shutil
 * thread - threading - multiprocessing
+* shlex
 
 ### Debuging
 * pdb
