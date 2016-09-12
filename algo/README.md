@@ -49,8 +49,9 @@ There are some useful tactics you need to be familiar with, they are very common
   * traverse (pre-order, in-order, post-order)
     * `isValidBST(root)`
 * graph: adjcent list, adjcent matrix
-  * DFS
+  * DFS(stack, which is recursion)
   * BFS(queue)
+  * Transitive reduction (DFS or BFS with an additional map)
 
 ### Algorithm design
 * Convert the problem to an known algorithm: `leetcode gas station -> max sub array -> dynamic programming`
