@@ -8,6 +8,9 @@ Here are the topics I think might be important:
 * Build process (SDLC, CI, CD...)
 * Networking - relationship is key to make things happen
 
+### Leadership
+* What is your [leadership style](http://ww2.sinaimg.cn/mw1024/6275ea6agw1f5rxjasf8qj20jg0d2jw5.jpg)? (pacesetting, coaching)
+* How do you think your direct reports think of you? (role model; learn from; control too much...)
 
 ### Books
 * 《影响力》
