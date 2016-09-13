@@ -59,6 +59,14 @@ There are some useful tactics you need to be familiar with, they are very common
          delete edge xz if edges xy and yz exist
 
   ```
+  * Transitive closure
+  ![Demo](https://en.wikipedia.org/wiki/Transitive_closure#/media/File:Transitive-closure.svg)
+  ```
+  foreach x in graph.vertices
+   foreach y in graph.vertices
+      foreach z in graph.vertices
+         add edge xz if edges xy and yz OR edge xz exist
+  ```
 
 ### Algorithm design
 * Convert the problem to an known algorithm: `leetcode gas station -> max sub array -> dynamic programming`
