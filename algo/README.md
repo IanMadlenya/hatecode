@@ -51,7 +51,14 @@ There are some useful tactics you need to be familiar with, they are very common
 * graph: adjcent list, adjcent matrix
   * DFS(stack, which is recursion)
   * BFS(queue)
-  * Transitive reduction (DFS or BFS with an additional map)
+  * Transitive reduction
+  ```
+  foreach x in graph.vertices
+   foreach y in graph.vertices
+      foreach z in graph.vertices
+         delete edge xz if edges xy and yz exist
+
+  ```
 
 ### Algorithm design
 * Convert the problem to an known algorithm: `leetcode gas station -> max sub array -> dynamic programming`
