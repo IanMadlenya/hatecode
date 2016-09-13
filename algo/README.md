@@ -53,8 +53,7 @@ There are some useful tactics you need to be familiar with, they are very common
   * BFS(queue)
   * Transitive reduction
   
-  ![DAG](https://upload.wikimedia.org/wikipedia/commons/f/fe/Tred-G.svg)  
-  ![Reduction](https://upload.wikimedia.org/wikipedia/commons/e/ef/Tred-Gprime.svg)
+  ![DAG](https://upload.wikimedia.org/wikipedia/commons/f/fe/Tred-G.svg)![Reduction](https://upload.wikimedia.org/wikipedia/commons/e/ef/Tred-Gprime.svg)
   ```
   foreach x in graph.vertices
    foreach y in graph.vertices
