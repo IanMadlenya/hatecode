@@ -52,6 +52,7 @@ There are some useful tactics you need to be familiar with, they are very common
   * DFS(stack, which is recursion)
   * BFS(queue)
   * Transitive reduction
+  
   ![DAG](https://upload.wikimedia.org/wikipedia/commons/f/fe/Tred-G.svg)  
   ![Reduction](https://upload.wikimedia.org/wikipedia/commons/e/ef/Tred-Gprime.svg)
   ```
