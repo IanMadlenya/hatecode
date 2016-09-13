@@ -60,7 +60,7 @@ There are some useful tactics you need to be familiar with, they are very common
 
   ```
   * Transitive closure
-  ![Demo](https://en.wikipedia.org/wiki/Transitive_closure#/media/File:Transitive-closure.svg)
+  ![Demo](https://upload.wikimedia.org/wikipedia/commons/6/60/Transitive-closure.svg)
   ```
   foreach x in graph.vertices
    foreach y in graph.vertices
