@@ -67,6 +67,7 @@ C++ language features, and coding
 * Write a thread-safe singleton
 * Write a CountDownLauch usinig mutex & contion variable
 * Write a blocking queue
+* When to use lock/condition variable/CountDownLatch?
 
 ### Linux C++
 * LD_LIBRARY_PATH
