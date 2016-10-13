@@ -80,6 +80,8 @@ C++ language features, and coding
 * What test framework you use?
 * What is mock object? have you ever used it?
 
+### Misc
+* How to debug memory leaks (redefine new/delete; valgrind...)
 
 ### References
 * [C++ Reference](http://www.cplusplus.com/reference)
