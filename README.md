@@ -8,7 +8,7 @@ One tip is to always leave time for questions
 
 And Here hatecode just resembles leetcode:)
 
-Below are selected tips & questions for each different techinical area:
+Below are tips & questions for each different techinical area, you could prepare your interview by selecting questions from below and printed with the CV
 ### Core Tech
 * [algo](algo/README.md)
 * [design](design/README.md)
