@@ -3,7 +3,7 @@ Hmm, I hate interviews, or probably be more accurate - I hate to be interviewed:
 The general process on interviewing is:
 * Resume Screen - Don't bring anyone in, there should be some hard requirement (language, experience, smart etc)
 * Phone Interview - quickly(30m) go through a list of questions, mainly to weed out people who only do cheap 'talks',  no need to be intensive
-* Onsite interview (or, sadly, still phone interview :( ) - get personal, go deep, have a plan (talk - language - coding)
+* Onsite interview (or, sadly, still phone interview :( ) - get personal, go deep, have a plan (talk - language - coding), I used to take a paper as that get my brain releifed
 One tip is to always leave time for questions
 
 And Here hatecode just resembles leetcode:)
