@@ -68,6 +68,7 @@ C++ language features, and coding
 * Write a CountDownLauch usinig mutex & contion variable
 * Write a blocking queue
 * When to use lock/condition variable/CountDownLatch?
+* There are 4 threads executing a function foo(), thread 1 will send out a message A, while other thread will send out message B, implement foo() properly to make sure A is always sent out first.
 
 ### Linux C++
 * LD_LIBRARY_PATH
