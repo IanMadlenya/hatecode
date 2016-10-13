@@ -35,6 +35,7 @@ C++ language features, and coding
 * Write a smart pointer
 * Write a program to compute sum of (1..N) in compile time
 * Write a program to compute the Fibbonacci numbers
+* Explain policy and trait(policy to inject behavior, like allocator, hash for std containers; traits to extract properties, like iterator_traits, numeric limits, is_integral)
 
 ### Exception
 * Explain exception(error handling, separted from core logic)
