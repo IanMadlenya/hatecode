@@ -90,3 +90,4 @@ There are some useful tactics you need to be familiar with, they are very common
 * [Introduction to Algorithms](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
 * [LeetCode - Clean Code Handbook](https://leetcode.com/book/)
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+* [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
