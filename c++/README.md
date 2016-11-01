@@ -57,12 +57,13 @@ C++ language features, and coding
 * When is an iterator invalidated? (when memory it points to moves: resize, tree rebalance, rehash, remove...)
 * Could we use vector<auto_ptr<T>>
 * Smart pointers: shared_ptr, unique_ptr, weak_ptr
-* bind???
+* std::bind, std::ref
+* stack.pop() - stack.top(), why not just one.
 * Write a vector of integer, then look for the first odd number in the vector? (direct indexing vs iterators; function objecvt vs pointer on function vs lambda - std::find)
 
 ### Multithreading
 * thread vs. process
-* mutex vs. semaphore
+* mutex vs. semaphore vs. conditional variable
 * What is memory order?
 * how to debug a deadlock? (drop a stack trace: gstack; gdb:bt)
 * Write a thread-safe singleton
