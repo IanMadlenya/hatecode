@@ -44,7 +44,7 @@ C++ language features, and coding
 * What types are throwable? (any type -> copy constructable -> not limited by exception specification)
 * throw exception from a ctor?
 * throw exception from dtor?
-* why do you catch by ref? 
+* why do you catch by ref?
 
 ### STL & boost
 * What are the type requirements for an STL container? (default ctor; copy ctor; assignment; dtor)
