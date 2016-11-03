@@ -1,4 +1,5 @@
 Questions:
+* How you check the status of the system? 
 * How to print line 3 - 6 of a file
 * How to list all files that is name contains "foo", and content contains "bar"
 * How to print the first column of output of "ls -l"
