@@ -24,7 +24,7 @@ Below are tips & questions for each different techinical area, you could prepare
 
 ### Non-Tech
 * [cto](cto/README.md)
-* [trading](finance/README.md)
+* [trading](trading/README.md)
 * [cv-en](cv/en.md)
 * [cv-cn](cv/cn.md)
 
