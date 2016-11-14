@@ -16,17 +16,17 @@ Below are tips & questions for each different techinical area, you could prepare
 * [c++](c++/README.md)
 * [python](python/README.md)
 
-### NonCore Tech
+### General Tech
 * [java](java/README.md)
 * [lua](lua/README.md)
 * [javascript](javascript/README.md)
 * [linux](linux/README.md)
 
-### NonTech
+### Non-Tech
+* [cto](cto/README.md)
+* [trading](finance/README.md)
 * [cv-en](cv/en.md)
 * [cv-cn](cv/cn.md)
-* [cto](cto/README.md)
-* [finance](finance/README.md)
 
 
 And this is all about Markdown, here is the [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
