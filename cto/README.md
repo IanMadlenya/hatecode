@@ -14,4 +14,5 @@ Here are the topics I think might be important:
 
 ### Books
 * 《影响力》
+* 《Brilliant Networking》
 * 《The Five Dysfunctions of a Team》
