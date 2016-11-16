@@ -48,6 +48,14 @@ C++ language features, and coding
 * throw exception from dtor?
 * why do you catch by ref?
 
+### C++11
+https://gcc.gnu.org/projects/cxx-status.html
+* auto
+* lambda
+* rvalue reference?
+* range loop
+
+
 ### STL & boost
 * What are the type requirements for an STL container? (default ctor; copy ctor; assignment; dtor)
 * vector vs. list
