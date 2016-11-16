@@ -40,7 +40,7 @@ C++ language features, and coding
 * Write a is_equal template function (int, float?)
 
 ### Exception
-* Explain exception(error handling, separted from core logic)
+* Explain exception(error handling, separted from core logic, performance)
 * What does 'exception safe' mean? (no-throw, no-change, no-leak), give an example(STL containers)
 * What happens to the stack when an exception is thrown? (steps of stack unwind)
 * What types are throwable? (any type -> copy constructable -> not limited by exception specification)
