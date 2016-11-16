@@ -1,4 +1,5 @@
 Questions:
+* How to create a link? (soft, hard, inode?)
 * How you check the status of the system? (uptime, top)
 * How to print line 3 - 6 of a file
 * How to list all files that is name contains "foo", and content contains "bar"
