@@ -11,6 +11,7 @@ C++ language features, and coding
 * sizeof(EmptyClass)
 * casting operators (static_cast, const_cast, dynamic_cast, reinterpret_cast) -> what will happen if dynamic_cast failed?
 * prefix operator vs postfix operator -> how to override?
+* const member function? (immutable object)
 
 ### Object Construct & Destruct
 * malloc vs. new
@@ -36,6 +37,7 @@ C++ language features, and coding
 * Write a program to compute sum of (1..N) in compile time
 * Write a program to compute the Fibbonacci numbers
 * Explain policy and trait(policy to inject behavior, like allocator, hash for std containers; traits to extract properties, like iterator_traits, numeric limits, is_integral)
+* Write a is_equal template function (int, float?)
 
 ### Exception
 * Explain exception(error handling, separted from core logic)
