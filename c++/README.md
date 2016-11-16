@@ -1,32 +1,30 @@
 C++ language features, and coding
 
 ### Core Language
-* inline vs. macro
+* casting operators (static_cast, const_cast, dynamic_cast, reinterpret_cast) -> what will happen if dynamic_cast failed?
+* why const member function? (immutable object)
 * static
+* inline vs. macro
 * extern -> extern "C" -> name mangling
+* malloc vs. new (new[], delete)
+* RAII
 * ptr vs. ref
 * heap vs. stack
 * struct vs. class (visibility; typename)
 * Compiler generated functions? (constructor, destructor, copy constructor, assignment)
 * sizeof(EmptyClass)
-* casting operators (static_cast, const_cast, dynamic_cast, reinterpret_cast) -> what will happen if dynamic_cast failed?
 * prefix operator vs postfix operator -> how to override?
-* const member function? (immutable object)
-
-### Object Construct & Destruct
-* malloc vs. new
 * initilization list -> order
-* virtual destructor
 * Given a calss with 2 base classes, 2 member objects: constructor, destructor order
-* RAII
 
-### Inheritance & Polymorphism
+### Polymorphism
+* virtual destructor
 * virtual -> vptr & vtable -> RTTI
-* polymorphism vs overloading -> overload by? (args, const & volatile (cv-qualifer), template fn return type)
 * pure virtual
 * virtual inheritance, when, why?
+* polymorphism vs overloading -> overload by? (args, const & volatile (cv-qualifer), template fn return type)
 
-### Template
+### Generic(template)
 * How to force template instantiation
 * Complete specialization vs. partial specialization
 * What is member template function -> does it need to be in a template class?
@@ -54,7 +52,6 @@ https://gcc.gnu.org/projects/cxx-status.html
 * lambda
 * rvalue reference?
 * range loop
-
 
 ### STL & boost
 * What are the type requirements for an STL container? (default ctor; copy ctor; assignment; dtor)
