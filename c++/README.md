@@ -48,12 +48,14 @@ C++ language features, and coding
 
 ### C++11
 https://gcc.gnu.org/projects/cxx-status.html
+* What C++11 features you are using?
 * auto
 * lambda
 * rvalue reference?
 * range loop
 
 ### STL & boost
+* What boost libraries you have used?
 * What are the type requirements for an STL container? (default ctor; copy ctor; assignment; dtor)
 * vector vs. list
 * what is deque
