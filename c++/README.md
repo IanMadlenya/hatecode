@@ -89,6 +89,7 @@ https://gcc.gnu.org/projects/cxx-status.html
 * When do you use strace? (file, system call)
 * PCH
 * binutils: c++filt, nm, readelf...
+* What is ABI(https://gcc.gnu.org/onlinedocs/libstdc++/manual/abi.html)
 
 ### Testing
 * What test framework you use?
