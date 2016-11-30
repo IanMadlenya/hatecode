@@ -29,13 +29,15 @@ C++ language features, and coding
 * Complete specialization vs. partial specialization
 * What is member template function -> does it need to be in a template class?
 * CRTP
-* SFINAE
 * what are trait class? (use template specilization to dispatch in compile time(std::advance); iterator_traits; numeric_limits)
-* Write a smart pointer
+* Explain policy and trait(policy to inject behavior, like allocator, hash for std containers; traits to extract properties, like iterator_traits, numeric limits, is_integral)
+* Write a smart pointer (assignment operator)
+* Write a is_equal template function (int, float?)
+* TMP starts here:
+* Giving a function, write a trait class to extract the return type, and number of arguments.
+* SFINAE
 * Write a program to compute sum of (1..N) in compile time
 * Write a program to compute the Fibbonacci numbers
-* Explain policy and trait(policy to inject behavior, like allocator, hash for std containers; traits to extract properties, like iterator_traits, numeric limits, is_integral)
-* Write a is_equal template function (int, float?)
 
 ### Exception
 * Explain exception(error handling, separted from core logic, performance)
