@@ -5,6 +5,7 @@
 
 ### Highlights
 ---
+* Currently building algorithmic trading engine using C++ & Python
 * 5 years of Python/Java/Lua building enterprise-level CI/CD system
 * 6 years of C++ development with large scale (10MLOC) CAD systems
 * 5 years of technical leadership, 3 years of people management
@@ -14,20 +15,24 @@
 ### Experience
 ---
 #### Vice President, Morgan Stanley, 2011.7 – present
-As a lead developer to build an enterprise-level CI/CD system, I am also the manager of build systems for all different programming languages.
+* Building low latency algorithmic trading engine, including Dark Pool, Smart Order Routing, Multi-product legger etc.
+* As a lead developer to build an enterprise-level CI/CD system, I am also the manager of build systems for all different programming languages.
 
 #### Software Engineer, Autodesk, 2005.3 – 2011.7
 Build 3D CAD software and CAD data format exchange platform.
 
 ### Projects
 ---
-#### Train, 2011.7 – present
+#### Low Latency Trading Engine, 2016.6 - present
+C++ based ultra low latency trading system.
+
+#### Train, 2011.7 – 2016.6
 Train is an enterprise-level CI/CD system that enable deploying user’s project from source code all the way through to the target environment by one click.  It integrate existing commercial and open source systems, including Perforce, Git, Jira, Crucible, premake, ant, gradle, Jenkins, and Team City. Provides the internal development community with a consistent process for developing and deploying software, while also making it easy to adopt best practices. I am a lead developer of Train responsible for many of the components, highly involved in user discussion, cross-team collaboration, and design reviews to ensure the system is evolving on the right direction.
 
-#### MSPremake, 2012.5 – present
+#### MSPremake, 2012.5 – 2016.6
 This is a fork of the open source C++ meta build system premake, based on lua, to provide better C++ build story for Morgan Stanley with: dependency management and conflict resolution, performance improvement using luajit, optimal makefile generation, distributed build support etc. I am the owner and lead developer of the project, involve in all aspects of the project: user discussion, design, coding, testing, documentation, deploy, training, support etc.
 
-#### MSGradle , 2013.10 – present
+#### MSGradle , 2013.10 – 2016.6
 This is an extension of the open source java/scala build system gradle, based on groovy, to provide better java/scala build story for Morgan Stanley with a lot of plugins: run script generation, dependency resolvers, dependency copy etc. I am the owner and lead developer of the project, involve in all aspects of the project: user discussion, design, coding, testing, documentation, deploy, training, support etc.
 
 ---
